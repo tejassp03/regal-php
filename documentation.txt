@@ -1,0 +1,18 @@
+Reasoning:
+
+    Verbal Ability
+    Verbal Reasoning
+    Non Verbal Reasoning
+
+Logical:
+    Logical Reasoning
+    
+Aptitude:
+    Directly all the categories inside.
+
+
+Group Discussion:
+    All the topics listed.
+
+English:
+    Modules of ELTS.
