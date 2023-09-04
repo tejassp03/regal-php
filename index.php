@@ -66,7 +66,7 @@ require_once('auth/authenticate.php');
                             </a>
                         </li>
                         <li>
-                            <a href="javascript:void(0)"
+                            <a href="javascript:void(0)" onclick="location.href='Shuffle/shufflePractice'"
                                 class="flex items-center bg-white hover:bg-yellow-50 rounded-xl font-bold text-lg text-gray-900 py-3 px-4">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="currentColor"
                                     class="text-lg mr-4" viewBox="0 0 16 16">
