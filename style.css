@@ -45,6 +45,12 @@ html,body
     transform: translate(-35%, -50%) scale(1);
 }
 
+.quiz_box.activePractice{
+    opacity: 1;
+    z-index: 5;
+    pointer-events: auto;
+}
+
 .start_btn button{
     font-size: 25px;
     font-weight: 500;

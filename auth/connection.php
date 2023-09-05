@@ -2,7 +2,7 @@
 	$host = 'localhost';
 	$username = 'root';
 	$password = '';
-	$database = 'quiz_portal';
+	$database = 'regal_test';
 
 	$database_handler = new mysqli($host,$username,$password,$database);
 
