@@ -62,31 +62,25 @@
             <div>
                 <button id="explain" class="button is-normal is-success">
                     <span class="material-icons">
-                        lightbulb
-                    </span> See Explanation
+                    flag
+                    </span> Flag Question
                 </button>&emsp;
-                <button id="theory" class="button is-normal is-info " onclick="theoryfunc()">
-                    <span class="material-icons">
-                        library_books
-                    </span> Learn Theory &nbsp;
-                </button>
-
-                &emsp;
-         
-           
-         <div class="button is-normal is-primary">
-           <span class="material-icons">
-                        <span class="material-icons">trending_up </span> </span>
-           <div class="score-card"> Total Score: <span id="scoreCard">&nbsp;0&nbsp;</span> </div>
-      </div>
-       &emsp;
-        <button class="button is-normal is-link " id="btnNext" type="button" onclick="next()">
+                
+         <button class="button is-normal is-link " id="btnNext" type="button" onclick="next()">
              <span class="material-icons">
                         <span class="material-icons">trending_flat </span>
                     </span> Next Question
             </button>
            &emsp;
+           
+        
+<button id="theory" class="button is-normal is-info " onclick="theoryfunc()">
+                    <span class="material-icons">
+                        library_books
+                    </span> Submit Test &nbsp;
+                </button>
 
+                &emsp;
             </div>
 
 <!--sample modal -->
